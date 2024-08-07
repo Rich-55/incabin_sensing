@@ -1,0 +1,10 @@
+numpy
+opencv-python
+mediapipe
+pip install pyrealsense2
+pip install playsound
+
+
+https://pytorch.org/get-started/locally/
+
+python -m pip install seaborn
